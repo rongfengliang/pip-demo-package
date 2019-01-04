@@ -43,6 +43,14 @@ twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 
 ## useage
 
+* install pip package
+
+```code
+pip install -i https://test.pypi.org/simple/ dalongrong-example-pkg
+```
+
+* run
+
 ```code
 cd useage
 python app.py
