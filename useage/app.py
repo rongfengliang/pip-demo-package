@@ -1,0 +1,2 @@
+import dalongrong_example_pkg
+print(dalongrong_example_pkg.name)
