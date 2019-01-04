@@ -55,3 +55,11 @@ pip install -i https://test.pypi.org/simple/ dalongrong-example-pkg
 cd useage
 python app.py
 ```
+
+* with requirement && docker-compose runing
+
+```code
+cd app
+docker-compose build
+docker-compose up
+```
