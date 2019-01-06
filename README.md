@@ -41,7 +41,7 @@ https://test.pypi.org/account/register/
 twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 ```
 
-## useage
+## usage
 
 * install pip package
 
